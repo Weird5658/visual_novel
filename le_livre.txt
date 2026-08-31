@@ -1,0 +1,1045 @@
+====================================================
+LE LIVRE SANS TITRE
+Visual novel — scenario complet et developpe
+====================================================
+
+
+----------------------------------------------------
+TON ET INTENTION
+----------------------------------------------------
+
+Le Livre sans titre est un visual novel de mystere psychologique et
+philosophique. L'histoire commence dans un lycee ordinaire, presque
+banal : quatre eleves se reunissent apres les cours dans un club de
+lecture poussiereux, davantage par habitude que par veritable passion.
+Peu a peu, un livre sans titre transforme leurs discussions en
+epreuves intimes. Le livre ne raconte pas seulement une histoire : il
+semble connaitre les personnages, leurs regrets et les choix qu'ils
+n'ont jamais oses faire.
+
+Les themes principaux sont la liberte, la responsabilite, la memoire,
+l'influence du passe, le poids des institutions, l'authenticite et la
+peur de mourir sans avoir reellement choisi sa vie. Les citations et
+les references philosophiques apparaissent comme des moments de
+respiration. Elles ne doivent pas interrompre artificiellement
+l'action : elles naissent des emotions des personnages et leur
+permettent de reflechir avant de poursuivre.
+
+Le recit avance sur deux couches qui finissent par se toucher : d'un
+cote, la vie ordinaire du club (ranger la salle, se chamailler, garder
+un secret) ; de l'autre, l'histoire imprimee dans le livre lui-meme,
+celle de Noir, un homme qui croit voir l'avenir. Plus les eleves
+avancent dans leur lecture, plus la frontiere entre les deux couches
+s'efface. Le joueur ne doit jamais etre certain de savoir laquelle des
+deux histoires est en train de le regarder.
+
+	« On ne devient pas soi-meme en decouvrant une identite cachee,
+	mais en decidant ce que l'on accepte de faire de ce qui nous
+	a faconnes. »
+	— Idee inspiree de Friedrich Nietzsche
+
+
+----------------------------------------------------
+1. LES QUATRE PERSONNAGES
+----------------------------------------------------
+
+KAITO HOSHINO — president du club
+
+Kaito est serieux, organise et raisonnable. Il tient le club a bout de
+bras, redige les comptes rendus et pretend croire que tout probleme
+possede une solution logique. En realite, il a peur de decevoir.
+Depuis la maladie de son pere, il s'est convaincu qu'il devait etre
+celui qui garde la tete froide. Il confond souvent la responsabilite
+avec le fait de tout controler.
+
+Avant meme l'apparition du livre, on le voit deja corriger les autres,
+reecrire le planning du club trois fois, s'excuser pour des choses qui
+ne sont pas de sa faute. Ce n'est pas de la vanite : c'est une maniere
+de tenir debout. Kaito choisit generalement de lire a voix haute. Il
+devient le premier a comprendre que le livre reagit a leurs paroles.
+Son arc narratif porte sur cette question : etre responsable
+signifie-t-il decider pour les autres, ou leur laisser la possibilite
+de choisir ?
+
+	Role : president du club et lecteur principal.
+	Personnalite : calme, protecteur, perfectionniste.
+	Faiblesse : culpabilite et besoin de controle.
+	Affinite favorisee : confiance et decisions prudentes.
+	Voix philosophique associee : Descartes, Sartre, Socrate.
+
+
+MEI SHIRAGASI — vice-presidente
+
+Mei est la plus attentive aux autres. Elle remarque les silences, les
+regards qui se detournent et les tremblements discrets dans une main.
+Elle aime les histoires parce qu'elles permettent de dire
+indirectement ce que l'on n'arrive pas a avouer. Malgre son apparente
+douceur, elle sait se montrer ferme lorsque quelqu'un souffre.
+
+Mei a perdu une amie proche dans un accident dont elle se sent encore
+responsable. Elle s'interdit de parler de cette journee, persuadee
+que le silence protege les autres. Le livre semble connaitre ce
+secret et lui propose plusieurs versions de ce qui s'est reellement
+passe. Elle porte ce poids avec une politesse presque parfaite, au
+point que les autres membres du club mettent longtemps a comprendre
+qu'elle ne va pas bien du tout.
+
+	Role : vice-presidente et mediatrice du groupe.
+	Personnalite : empathique, sensible, observatrice.
+	Faiblesse : tendance a se sacrifier et a cacher sa douleur.
+	Affinite favorisee : ecoute et choix compassionnels.
+	Voix philosophique associee : Freud, Bergson, Spinoza.
+
+
+REN TAKAMURA — responsable du materiel
+
+Ren est sarcastique, direct et souvent le premier a se moquer de
+l'ambiance serieuse du club. Il pretend ne croire ni aux fantomes ni
+aux grandes questions existentielles. Pourtant, il est celui qui
+supporte le moins l'idee d'etre manipule. Il a grandi dans une famille
+ou chacun lui repetait ce qu'il devait devenir, jusqu'a lui faire
+croire que ses propres envies etaient insignifiantes.
+
+Ren refuse d'abord d'ouvrir le livre. Il veut le rendre a la
+bibliotheque ou le jeter. Ses reactions peuvent sembler egoistes, mais
+elles cachent une peur legitime : si le livre connait leurs choix,
+peut-etre leur liberte n'est-elle qu'une mise en scene. C'est aussi le
+personnage qui desamorce le plus souvent la tension par une blague —
+une maniere, pour lui, de garder un pied hors de l'histoire.
+
+	Role : responsable du materiel et contradicteur du groupe.
+	Personnalite : ironique, energique, courageux en apparence.
+	Faiblesse : mefiance et peur de dependre des autres.
+	Affinite favorisee : independance et remise en question.
+	Voix philosophique associee : Nietzsche, Camus.
+
+
+AOI MIYAZONO — archiviste du club
+
+Aoi parle peu, mais ses remarques sont rarement innocentes. Elle
+s'occupe des archives et connait l'histoire du lycee mieux que
+n'importe qui. Elle affirme avoir deja vu le livre, des annees
+auparavant, dans une photographie du club de lecture. Sur cette
+photographie, quatre eleves tiennent exactement le meme ouvrage.
+Leurs visages ont ete soigneusement grattes.
+
+Aoi n'est pas une voyante. Elle est simplement tres attentive aux
+repetitions. Elle comprend avant les autres que le livre ne predit
+pas l'avenir : il pousse ses lecteurs a reproduire les decisions d'un
+groupe precedent. Son arc tourne autour de l'identite et de
+l'authenticite : sommes-nous nous-memes lorsque nous repetons une
+histoire ecrite par d'autres ?
+
+	Role : archiviste et narratrice occasionnelle.
+	Personnalite : reservee, lucide, enigmatique.
+	Faiblesse : difficulte a demander de l'aide.
+	Affinite favorisee : verite et memoire.
+	Voix philosophique associee : Heidegger, Hume, Foucault.
+
+
+----------------------------------------------------
+2. PROLOGUE — UNE REUNION PRESQUE NORMALE
+----------------------------------------------------
+
+[Fond : salle du club de lecture, fin d'apres-midi. La pluie frappe
+les fenetres. Des piles de livres partout, une etagere a moitie
+vide.]
+
+Kaito : Bien. Avant que quelqu'un ne trouve une nouvelle excuse pour
+partir, on range la salle.
+
+Ren : Je tiens a signaler que deplacer trois cartons de vieux
+magazines ne constitue pas une activite litteraire.
+
+Mei : Tu dis ca depuis vingt minutes, mais tu n'as pas pose un seul
+carton.
+
+Ren : Je supervise. C'est une competence rare.
+
+Aoi : Tu es assis sur le carton que Kaito cherche.
+
+Ren : ...Je supervisais de tres pres.
+
+	CHOIX 1 — Comment Kaito reagit-il ?
+
+	A. « Ren, leve-toi et aide-nous. »
+	   Kaito affirme son autorite. Ren obeit avec un soupir, mais il
+	   garde une certaine distance.
+
+	B. « On peut faire une pause de cinq minutes avant de ranger. »
+	   Kaito se montre plus souple. Mei sourit, et Ren accepte sans
+	   plaisanter.
+
+	C. « Aoi, tu peux verifier les archives pendant qu'on s'occupe
+	   du reste ? »
+	   Aoi releve les yeux, surprise que Kaito lui fasse confiance.
+	   Cette decision renforce son lien avec lui.
+
+Apres quelques minutes, Aoi ouvre l'armoire basse situee derriere les
+anciennes etageres. Une pile de livres tombe au sol. Parmi eux se
+trouve un volume relie de noir, sans auteur, sans titre et sans
+aucune indication sur la couverture. Le cuir est use aux coins, mais
+presque tiede, comme s'il venait d'etre repose apres avoir ete tenu
+longtemps entre des mains.
+
+Aoi : Celui-ci n'etait pas dans l'inventaire.
+
+Kaito : Un livre sans titre ?
+
+Ren : C'est peut-etre le premier livre honnete de la bibliotheque. Il
+ne promet rien.
+
+Mei : Il est vraiment vieux... mais la couverture n'a presque pas de
+poussiere.
+
+Kaito ramasse le livre. Au moment ou ses doigts touchent la reliure,
+les lumieres de la salle clignotent. La pluie s'arrete brusquement.
+Dans le silence, une phrase apparait sur la couverture, comme si elle
+avait ete gravee sous l'encre :
+
+	QUI CHOISIT LORSQUE PERSONNE NE REGARDE ?
+
+Le texte disparait aussitot.
+
+	CHOIX 2 — Que faire du livre ?
+
+	A. Le remettre immediatement dans l'armoire.
+	   Le livre tombe de lui-meme au sol et s'ouvre a une page
+	   blanche. Une nouvelle phrase apparait : « Refuser de choisir
+	   est encore une maniere de choisir. » La porte du club se
+	   verrouille.
+
+	B. Demander a Aoi de chercher son origine dans les archives.
+	   Aoi trouve une photographie ancienne portant la date de 1987.
+	   Quatre membres du club y tiennent un livre identique.
+
+	C. L'ouvrir pour verifier s'il contient vraiment du texte.
+	   Les pages sont blanches jusqu'a ce que chacun pose une main
+	   sur la couverture. Des mots apparaissent lentement, ecrits
+	   avec quatre encres differentes.
+
+	D. Le dechirer ou le jeter.
+	   Le livre resiste. Une coupure fine apparait sur le doigt de
+	   Ren, alors qu'il n'a pas encore touche la page. Le sang tombe
+	   sur le papier et fait apparaitre le debut d'une histoire.
+
+Quelle que soit la decision, les quatre eleves finissent par rester
+dans la salle. La porte ne s'ouvre plus. Dehors, la pluie a repris,
+mais elle tombe maintenant en silence, comme une image sans le son.
+
+
+----------------------------------------------------
+3. PREMIERE PAUSE PHILOSOPHIQUE — LE CHOIX DE LIRE
+----------------------------------------------------
+
+Le livre ne contient qu'une phrase :
+
+	« Vous etes libres de fermer ce livre. Vous ne serez pas libres
+	de pretendre que vous ne l'avez jamais ouvert. »
+
+Kaito regarde les autres. Personne ne veut etre le premier a parler.
+
+Mei : C'est absurde. Un objet ne peut pas nous rendre responsables de
+quelque chose que nous ne comprenons pas.
+
+Ren : Pourquoi pas ? Les adultes font ca tout le temps.
+
+Aoi : Sartre dirait probablement que la liberte ne disparait pas
+parce qu'elle est inconfortable. Elle devient seulement plus
+difficile a supporter.
+
+Kaito : Et si nous ne choisissons pas ?
+
+Aoi : Alors quelqu'un choisira a notre place. Ou bien nous laisserons
+les circonstances choisir.
+
+Kaito ferme les yeux une seconde, comme s'il cherchait une phrase de
+president du club, une phrase rassurante. Il n'en trouve pas.
+
+Kaito (plus bas) : Je deteste ne pas savoir quoi decider.
+
+Mei : Depuis quand tu detestes ca ? Tu decides toujours pour tout le
+monde.
+
+Kaito : Justement.
+
+	--------------------------------------------------
+	PAUSE DE REFLEXION — Jean-Paul Sartre
+
+	« L'homme est responsable de ce qu'il fait de ce qu'on a fait
+	de lui. »
+
+	La phrase est souvent resumee ainsi : nous ne choisissons pas
+	toujours notre passe, notre famille ou nos blessures, mais nous
+	devons decider de la reponse que nous leur donnons. Cette idee
+	met les personnages mal a l'aise, car le livre semble
+	precisement les enfermer dans une situation qu'ils n'ont pas
+	demandee. Sartre ajoutait que meme le refus de choisir reste,
+	d'une certaine maniere, un choix : on ne peut pas sortir du jeu
+	simplement en fermant les yeux.
+	--------------------------------------------------
+
+	CHOIX 3 — Decision collective
+
+	A. Kaito propose de lire une seule page.
+	   Le groupe accepte une regle : si l'un d'eux veut arreter, la
+	   lecture s'interrompt.
+
+	B. Ren exige que chacun vote a bulletin secret.
+	   Le vote donne deux voix pour et deux voix contre. Pourtant,
+	   une cinquieme feuille apparait dans l'urne, avec le mot
+	   CONTINUEZ.
+
+	C. Mei demande a chacun d'expliquer sa peur avant de decider.
+	   Le groupe se rapproche. Les pages restent blanches pendant
+	   plusieurs secondes, comme si le livre attendait une reponse
+	   sincere.
+
+	D. Aoi pose une question au livre : « Que veux-tu de nous ? »
+	   Une reponse se forme : « Je ne veux rien. Je montre seulement
+	   ce que vous etes prets a faire. »
+
+Kaito ouvre finalement le livre. Le recit commence.
+
+
+----------------------------------------------------
+4. LE RECIT DANS LE RECIT — LA CHAMBRE DES FUTURS
+----------------------------------------------------
+
+Le livre raconte l'histoire d'un homme appele Noir, un ancien soldat
+capable de voir plusieurs futurs lorsqu'il prend une substance nommee
+Lumen. Dans chaque avenir, il accomplit une mission, tue une cible et
+survit quelques secondes de plus. Noir ne sait plus si ses souvenirs
+lui appartiennent ou s'ils ont ete implantes par ceux qui l'emploient.
+
+	[EXTRAIT DU LIVRE, lu par Kaito]
+
+	« Noir n'est pas un heros. Il ne cherche pas la redemption. Il
+	n'a presque plus de passe auquel se raccrocher — seulement des
+	missions, une nuit apres l'autre. Mais Noir possede une chose
+	que les autres assassins n'ont pas : il peut voir, l'espace
+	d'un battement de coeur, plusieurs futurs possibles, et choisir
+	celui dans lequel il survit. Une question le suit partout,
+	silencieuse : si je connais deja ce qui va arriver, suis-je
+	encore libre de le choisir ? »
+
+Le texte continue, plus loin, en racontant la guerre. Noir faisait
+partie d'un bataillon entier de soldats sous Lumen, capables
+d'anticiper chaque mouvement ennemi, presque impossibles a arreter.
+Quand la guerre a pris fin, on les a simplement laisses partir, avec
+leur dependance pour seul souvenir du service rendu. Le champ de
+bataille n'avait pas disparu : il avait change de forme, et s'etait
+installe a l'interieur d'eux.
+
+	[EXTRAIT DU LIVRE, lu par Mei, qui a pris le relais]
+
+	« Noir consulte regulierement une praticienne qui lui fournit
+	son traitement. Elle lui parle, elle l'ecoute, elle lui rappelle
+	de continuer a prendre le Lumen. Ses rendez-vous ressemblent a
+	une aide medicale. En realite, ils servent aussi a le maintenir
+	dans un etat ou il peut continuer a fonctionner comme une arme.
+	Il n'est pas vraiment soigne. Il est entretenu. »
+
+A mesure que Kaito et Mei lisent, les personnages comprennent que
+Noir n'est pas un simple personnage de fiction. Ses phrases reprennent
+leurs propres mots, presque a l'identique.
+
+Kaito : « Noir posa la main sur la poignee. Il se demanda s'il etait
+encore libre de l'ouvrir. »
+
+Ren : C'est exactement ce que j'ai dit tout a l'heure.
+
+Mei : Non. Tu as dit que le livre etait probablement pourri.
+
+Ren : C'etait ma facon poetique de poser la question.
+
+Aoi : Continue.
+
+Une illustration apparait au milieu de la page : quatre silhouettes
+assises autour d'une table. L'une tient un livre. Les silhouettes
+ressemblent aux quatre eleves.
+
+	CHOIX 4 — Faut-il poursuivre la lecture ?
+
+	A. Kaito continue malgre la peur.
+	   Les murs de la salle changent brievement. Les etageres
+	   deviennent celles d'une piece inconnue. Kaito entend la voix
+	   de son pere lui dire : « Si tu ne controles pas tout, tu
+	   seras responsable de tout ce qui arrivera. »
+
+	B. Mei prend le livre des mains de Kaito.
+	   Elle lit une scene ou une jeune fille reste immobile devant
+	   un telephone qui sonne. La scene ressemble a la journee de
+	   l'accident qu'elle refuse de raconter.
+
+	C. Ren ferme le livre.
+	   Toutes les horloges du lycee s'arretent. Une seule continue :
+	   celle du couloir, dont les aiguilles reculent.
+
+	D. Aoi demande a lire la page suivante.
+	   Elle decouvre une phrase ecrite dans son ecriture : « Tu sais
+	   deja comment cette histoire se termine. »
+
+
+	--------------------------------------------------
+	PAUSE DE REFLEXION — Sigmund Freud
+
+	Freud pensait que nos actes portent toujours la trace d'un
+	passe que nous ne maitrisons pas entierement — traumatismes,
+	desirs refoules, habitudes formees bien avant que nous ayons pu
+	les choisir. Noir a besoin du Lumen non seulement pour survivre
+	a ses missions, mais pour ne pas affronter ce que la guerre a
+	laisse en lui. Le livre, lui, semble faire la meme chose avec
+	les quatre eleves : il ne leur revele rien qu'ils ne portaient
+	deja, quelque part, sans le regarder en face.
+	--------------------------------------------------
+
+
+----------------------------------------------------
+5. LES FUTURS POSSIBLES
+----------------------------------------------------
+
+Noir arrive devant trois portes. Derriere la premiere, quelqu'un
+l'attend. Derriere la deuxieme, il entend une voix d'enfant. Derriere
+la troisieme, il n'y a qu'un miroir.
+
+	[EXTRAIT DU LIVRE]
+
+	« Le Lumen cree un paradoxe que Noir n'a jamais reussi a
+	resoudre. S'il connait l'avenir, il peut le modifier. S'il peut
+	le modifier, c'est qu'il ne le connaissait pas vraiment. Son
+	pouvoir ne lui donne donc pas un controle absolu sur le temps —
+	seulement l'illusion d'un controle absolu. »
+
+Le livre demande au groupe de choisir une porte. Chaque personnage
+defend une reponse differente.
+
+Kaito : La premiere. Une histoire doit avancer vers un conflit.
+
+Mei : La deuxieme. Une voix qui appelle merite au moins qu'on
+l'ecoute.
+
+Ren : La troisieme. Le miroir ne pretend pas etre autre chose que ce
+qu'il est.
+
+Aoi : Vous supposez tous que les portes menent a des endroits
+differents.
+
+Kaito : Ce n'est pas le cas ?
+
+Aoi : Peut-etre qu'elles montrent la meme chose a des moments
+differents.
+
+	--------------------------------------------------
+	PAUSE DE REFLEXION — Henri Bergson
+
+	« Le temps vecu n'est pas une suite de secondes identiques. »
+
+	Pour Bergson, le temps de la conscience n'est pas celui d'une
+	horloge. Une minute d'attente peut sembler interminable, tandis
+	qu'une journee heureuse disparait en un instant. Le livre semble
+	utiliser cette experience interieure : dans ses pages, un
+	souvenir peut durer plus longtemps qu'une annee reelle. Les
+	trois portes ne sont peut-etre pas trois lieux, mais trois
+	manieres differentes de ressentir le meme instant.
+	--------------------------------------------------
+
+	CHOIX 5 — La porte choisie
+
+	A. La porte de la mission.
+	   Noir recoit une cible, mais le visage de cette cible change
+	   selon la personne qui lit. Pour Kaito, c'est son pere. Pour
+	   Mei, c'est elle-meme. Pour Ren, c'est le proviseur. Pour Aoi,
+	   c'est Noir.
+
+	B. La porte de l'enfant.
+	   Une petite voix demande : « Si tu savais que tu allais me
+	   perdre, me parlerais-tu quand meme ? » Mei commence a pleurer
+	   sans s'en rendre compte.
+
+	C. La porte du miroir.
+	   Le reflet de Noir ne bouge pas en meme temps que lui. Il
+	   dit : « Tu ne fais pas ce que tu veux. Tu veux ce que tu as
+	   appris a vouloir. »
+
+	D. Refuser les trois portes.
+	   Le livre devient completement noir. Une quatrieme porte
+	   apparait, mais elle est dessinee sur la page avec l'empreinte
+	   de la main du joueur.
+
+Plus loin dans le recit, Noir croise un autre porteur de Lumen, un
+homme que tout le monde appelle simplement Quinze. Contrairement a
+Noir, Quinze ne cherche pas a survivre a tout prix : il cherche a
+comprendre le systeme qui les a crees tous les deux.
+
+	[EXTRAIT DU LIVRE]
+
+	Noir : « Je dois survivre. »
+	Quinze : « Je dois comprendre. »
+
+Ren, en lisant ce passage, reste silencieux plus longtemps que
+d'habitude.
+
+Ren (tres bas) : ...Il y a des jours ou je ne sais meme plus laquelle
+de ces deux phrases je prefererais dire.
+
+
+----------------------------------------------------
+6. DEUXIEME PAUSE PHILOSOPHIQUE — SOMMES-NOUS REELLEMENT LIBRES ?
+----------------------------------------------------
+
+La salle revient a la normale. Pourtant, personne ne se souvient
+d'avoir quitte sa chaise.
+
+Ren : Si le livre connait deja nos reactions, ca veut dire qu'il nous
+controle.
+
+Aoi : Pas necessairement. Il peut connaitre nos habitudes sans
+connaitre nos decisions.
+
+Kaito : Quelle difference ?
+
+Aoi : Une habitude nous influence. Elle ne nous excuse pas toujours.
+
+Mei : Et si nos habitudes viennent de blessures ? Est-ce qu'on peut
+nous reprocher de nous defendre comme on a appris a le faire ?
+
+	--------------------------------------------------
+	PAUSE DE REFLEXION — Baruch Spinoza et Arthur Schopenhauer
+
+	Spinoza soutient que nous nous croyons libres parce que nous
+	connaissons nos desirs, mais pas les causes qui les produisent :
+	une pierre qui tombe pourrait, si elle pensait, croire qu'elle
+	choisit sa trajectoire. Schopenhauer formule une idee voisine :
+	nous pouvons faire ce que nous voulons, mais nous ne choisissons
+	pas toujours ce que nous voulons. Pour Spinoza, la seule
+	liberte reelle ne consiste pas a echapper aux causes, mais a
+	les comprendre suffisamment pour ne plus leur obeir aveuglement.
+	--------------------------------------------------
+
+Le silence qui suit est long. Cette fois, le livre n'ecrit rien. Il
+attend que les eleves parlent sans etre guides.
+
+	CHOIX 6 — Confession personnelle
+
+	A. Kaito avoue qu'il veut toujours decider pour eviter de perdre
+	   quelqu'un.
+	   Mei lui demande s'il protege reellement les autres ou s'il
+	   cherche seulement a ne plus ressentir sa culpabilite.
+
+	B. Mei raconte enfin l'accident de son amie.
+	   Elle explique qu'elle avait recu un appel ce jour-la, mais
+	   n'avait pas repondu parce qu'elles s'etaient disputees. Elle
+	   ignore encore si son amie voulait s'excuser.
+
+	C. Ren revele que son avenir a ete choisi par sa famille.
+	   Il devait entrer dans une ecole precise, suivre une carriere
+	   precise et ne jamais faire de vagues. Le club de lecture est
+	   le seul endroit ou il a l'impression d'exister par choix.
+
+	D. Aoi explique qu'elle se souvient d'une autre reunion.
+	   Elle ne sait pas si c'est un souvenir, un reve ou une histoire
+	   lue autrefois. Dans cette autre reunion, un des quatre eleves
+	   n'est jamais rentre chez lui.
+
+Chaque confession modifie les dialogues suivants et le niveau de
+confiance entre les personnages. Apres la confession choisie, un
+court silence s'installe — pas gene, cette fois, mais presque
+tendre. Pour la premiere fois depuis le debut de la soiree, personne
+ne cherche a combler ce silence par une blague.
+
+
+----------------------------------------------------
+7. LE SYSTEME DERRIERE LE LIVRE
+----------------------------------------------------
+
+Aoi retrouve dans les archives plusieurs comptes rendus du club de
+lecture. Ils sont tous incomplets. Chaque annee, quatre eleves se
+reunissent dans la meme salle et decouvrent un livre sans titre. Les
+comptes rendus decrivent les memes themes : une guerre, un homme
+nomme Noir, une substance qui permet de voir le futur et une porte
+qui ne doit jamais etre ouverte.
+
+Kaito comprend que le lycee n'est peut-etre pas un simple decor. Les
+eleves semblent avoir ete orientes vers le club selon leurs profils
+psychologiques. La bibliotheque, le reglement du lycee et meme les
+reunions du club pourraient faire partie d'un dispositif destine a
+observer leurs reactions.
+
+Ren : Donc le lycee nous etudie ?
+
+Mei : Qui ferait ca ?
+
+Aoi : Une institution n'a pas besoin d'etre dirigee par une personne
+pour exercer un controle. Il suffit parfois que tout le monde obeisse
+a des regles dont personne ne se rappelle l'origine.
+
+	--------------------------------------------------
+	PAUSE DE REFLEXION — Michel Foucault
+
+	Les institutions peuvent discipliner les individus sans violence
+	visible : elles organisent les espaces, les horaires, les
+	comportements et les regards. On finit par se surveiller
+	soi-meme, meme lorsque personne ne nous surveille directement.
+	Le club de lecture, la salle toujours identique, l'heure fixe
+	des reunions, meme le silence poli qu'on y respecte — tout cela
+	fabrique une discipline douce, presque invisible, bien avant
+	que le livre n'apparaisse.
+	--------------------------------------------------
+
+La cloche du lycee sonne, alors que les cours sont termines depuis
+longtemps. Sur le tableau, une consigne apparait :
+
+	UN SEUL LECTEUR DOIT ETRE SACRIFIE POUR QUE LES AUTRES SORTENT.
+
+	CHOIX 7 — Reagir a la consigne
+
+	A. Kaito propose de se sacrifier.
+	   Le livre refuse immediatement : « Celui qui choisit pour les
+	   autres ne se sacrifie pas. Il les prive d'une decision. »
+
+	B. Mei refuse de sacrifier qui que ce soit.
+	   Les fenetres s'ouvrent sur un couloir entierement noir. Une
+	   voix demande combien de temps elle tiendra cette position.
+
+	C. Ren dechire la consigne.
+	   Le papier se reconstitue, mais le nom de Ren est maintenant
+	   inscrit au-dessus du mot SACRIFIE.
+
+	D. Aoi demande a chacun de voter, sans se regarder.
+	   Le resultat depend des choix precedents. Si la confiance est
+	   elevee, les quatre bulletins portent le meme mot : PERSONNE.
+
+
+----------------------------------------------------
+8. TROISIEME PAUSE PHILOSOPHIQUE — LE DOUTE ET LA REALITE
+----------------------------------------------------
+
+Le livre presente ensuite quatre versions de la meme soiree. Dans la
+premiere, le club existe reellement. Dans la deuxieme, les eleves
+sont des souvenirs. Dans la troisieme, ils sont des personnages ecrits
+par un ancien lecteur. Dans la derniere, ils sont des lecteurs qui
+imaginent etre des personnages.
+
+Kaito : Il doit bien y avoir une version vraie.
+
+Ren : Pourquoi ? Parce que tu as besoin que le monde soit bien range ?
+
+Kaito : Parce que si rien n'est vrai, nos decisions ne servent a rien.
+
+Aoi : Descartes aurait commence par douter de tout. Mais le doute ne
+signifie pas que rien n'existe. Il signifie qu'il faut examiner ce
+que l'on croit savoir.
+
+	--------------------------------------------------
+	PAUSE DE REFLEXION — Rene Descartes
+
+	« Je pense, donc je suis. »
+
+	La phrase ne prouve pas que le monde exterieur est reel. Elle
+	indique seulement que l'acte de penser revele au moins une
+	presence : celle de celui qui doute. Pour les quatre eleves,
+	cela devient une possibilite de resistance. Meme si l'histoire
+	est truquee, leur maniere d'y repondre peut encore avoir une
+	signification. Le doute, chez Descartes, n'est pas un point
+	d'arrivee : c'est l'outil qui permet de reconstruire, pierre par
+	pierre, ce qui merite d'etre cru.
+	--------------------------------------------------
+
+	CHOIX 8 — Ce que les personnages decident de croire
+
+	A. Kaito choisit de croire aux faits verifiables.
+	   Il compare les archives, les horloges et les pages pour
+	   reconstruire une chronologie.
+
+	B. Mei choisit de croire aux emotions ressenties.
+	   Elle affirme qu'une douleur n'est pas fausse simplement parce
+	   qu'elle apparait dans une histoire.
+
+	C. Ren choisit de ne croire personne, pas meme lui-meme.
+	   Il devient plus difficile a manipuler, mais il risque de
+	   s'isoler du groupe.
+
+	D. Aoi choisit de croire aux contradictions.
+	   Elle comprend que les incoherences du livre sont peut-etre
+	   les traces laissees par les lecteurs precedents.
+
+
+----------------------------------------------------
+9. LA VERITE SUR LE LIVRE
+----------------------------------------------------
+
+Au fond de l'ouvrage, les quatre eleves decouvrent une page signee par
+une ancienne presidente du club, morte plusieurs annees auparavant.
+Elle raconte que le livre a ete cree par un professeur de philosophie
+qui voulait demontrer que les etres humains confondent souvent
+liberte et absence de contraintes.
+
+Mais l'experience a echappe a son createur. Le livre a commence a
+conserver les decisions des lecteurs. Il ne predit pas l'avenir : il
+compare les nouveaux lecteurs aux anciens et les pousse subtilement a
+repeter les memes choix. Sa veritable force n'est pas surnaturelle.
+Elle reside dans la honte, la peur et le desir de trouver une
+explication a ses propres actes.
+
+La derniere page contient pourtant un detail impossible : le nom des
+quatre eleves est ecrit avant meme qu'ils ne soient entres dans la
+salle.
+
+Mei : Alors tout etait decide depuis le debut ?
+
+Ren : Ou bien quelqu'un nous a simplement ecrits dans le livre apres
+nous avoir observes.
+
+Kaito : Dans les deux cas, on nous a manipules.
+
+Aoi : Peut-etre. Mais etre influence n'est pas la meme chose qu'etre
+entierement determine.
+
+	--------------------------------------------------
+	PAUSE DE REFLEXION — David Hume
+
+	Notre volonte s'inscrit dans une chaine de causes : les
+	habitudes, les souvenirs et les evenements anterieurs
+	influencent nos actions. Pourtant, reflechir a ces causes peut
+	modifier notre conduite. Comprendre la chaine ne nous rend pas
+	absolument independants, mais cela peut nous empecher d'y
+	obeir aveuglement. Hume rappelait aussi qu'on ne voit jamais
+	directement un lien de cause a effet — on le suppose, a force
+	d'habitude. Le livre a peut-etre simplement appris, au fil des
+	annees, a deviner ce que des adolescents effrayes font presque
+	toujours dans cette piece.
+	--------------------------------------------------
+
+
+----------------------------------------------------
+10. LE CHOIX FINAL
+----------------------------------------------------
+
+Le livre s'ouvre sur une page divisee en trois parties. La salle du
+club commence a disparaitre autour des personnages. Kaito, Mei, Ren
+et Aoi comprennent qu'ils doivent decider ensemble de ce qu'ils feront
+de l'ouvrage.
+
+	CHOIX 9 — Le destin du Livre sans titre
+
+	A. Le bruler.
+	   Detruire le livre signifie refuser de laisser une institution
+	   ou un recit definir leur identite. Mais bruler la memoire des
+	   anciens lecteurs revient aussi a effacer leurs souffrances.
+
+	B. Le conserver et continuer l'experience.
+	   Ils pourraient comprendre les regles du livre et prevenir les
+	   prochains eleves. Cependant, ils risquent de devenir les
+	   nouveaux gardiens d'un systeme qu'ils condamnaient.
+
+	C. Le reecrire.
+	   Ils decident d'ecrire eux-memes la suite, non pas pour
+	   controler chaque evenement, mais pour laisser des pages
+	   ouvertes et plusieurs voix possibles.
+
+	D. Le refermer sans choisir.
+	   Cette decision semble impossible. Pourtant, elle declenche la
+	   fin cachee si les quatre personnages ont appris a respecter
+	   le choix des autres.
+
+
+----------------------------------------------------
+11. LES TROIS FINS PRINCIPALES
+----------------------------------------------------
+
+--- FIN I — « LA PAGE BLANCHE » ---
+
+Cette fin est obtenue si les personnages refusent le livre, detruisent
+les consignes et privilegient l'independance. Ren joue un role
+central, mais il ne doit pas etre le seul a agir. Le groupe comprend
+qu'il n'existe aucune liberte parfaite, seulement des decisions que
+l'on accepte de regarder en face.
+
+Le livre brule sans produire de fumee. Lorsque les flammes
+disparaissent, la porte de la salle s'ouvre. Au matin, aucun eleve du
+lycee ne se souvient de l'existence du club de lecture. Les archives
+sont vides.
+
+Mei : Est-ce que tout cela a vraiment eu lieu ?
+
+Kaito : Je ne sais pas.
+
+Ren : Pour une fois, ca me va.
+
+Aoi trouve une page blanche dans sa poche. Elle y ecrit les quatre
+noms, puis ajoute une cinquieme ligne : « Nous ne savons pas encore ce
+que cette histoire fera de nous. »
+
+	--------------------------------------------------
+	Albert Camus — vivre malgre l'absence de sens evident
+
+	Le monde ne garantit pas que nos efforts auront une conclusion
+	parfaite. Pourtant, continuer a vivre, aimer et choisir malgre
+	cette incertitude peut constituer une forme de revolte.
+	--------------------------------------------------
+
+Derniere phrase :
+
+	La page etait vide. Pour la premiere fois, cela ne ressemblait
+	pas a une menace.
+
+
+--- FIN II — « LES LECTEURS DU SYSTEME » ---
+
+Cette fin est obtenue si les personnages cherchent surtout a
+comprendre le livre et acceptent de le conserver. Ils decouvrent le
+fonctionnement du dispositif, mais l'acceptent au nom de la
+connaissance. Kaito devient le nouveau president du club, Mei redige
+les temoignages, Ren surveille les regles et Aoi conserve les
+archives.
+
+Un an plus tard, quatre nouveaux eleves ouvrent le livre. Les anciens
+les observent derriere la porte vitree. Ils se disent qu'ils pourront
+intervenir si les choses vont trop loin.
+
+Puis Aoi remarque que leurs propres paroles apparaissent dans le
+livre avec quelques secondes d'avance.
+
+Aoi : Nous n'avons pas arrete le systeme.
+
+Ren : Non. Nous avons seulement appris a mieux y travailler.
+
+Kaito : Alors nous devons le changer de l'interieur.
+
+Mei : Et si c'est exactement ce que le livre voulait que nous
+disions ?
+
+Personne ne repond. La cloche sonne. Sur la premiere page du nouveau
+volume, un titre apparait enfin : LE CLUB DES LECTEURS.
+
+	--------------------------------------------------
+	Michel Foucault — pouvoir et controle
+
+	Comprendre un systeme ne suffit pas toujours a s'en liberer. La
+	connaissance peut devenir une nouvelle forme de pouvoir, et
+	celui qui surveille peut finir par reproduire la surveillance
+	qu'il voulait combattre.
+	--------------------------------------------------
+
+Derniere phrase :
+
+	Ils avaient appris a lire entre les lignes. Ils n'avaient pas
+	remarque que les lignes les lisaient aussi.
+
+
+--- FIN III — « NOUS ECRIVONS LA SUITE » ---
+
+Cette fin est obtenue lorsque les quatre personnages se font
+confiance, confessent leurs blessures et reecrivent ensemble la
+derniere partie du livre. Ils refusent de choisir un chef, une
+victime ou une verite unique. Chacun ecrit une page, puis laisse
+volontairement une partie inachevee.
+
+Kaito ecrit qu'il ne peut pas sauver tout le monde. Mei ecrit qu'un
+regret ne disparait pas parce qu'on cesse d'en parler. Ren ecrit qu'il
+a le droit de vouloir une vie que personne n'a prevue pour lui. Aoi
+ecrit qu'une memoire peut etre incomplete sans etre inutile.
+
+Le livre leur demande alors :
+
+	« Qui etes-vous, si personne ne vous raconte ? »
+
+Kaito : Je suis celui qui apprend a ne pas decider pour tout le
+monde.
+
+Mei : Je suis celle qui peut se souvenir sans rester prisonniere de
+ce souvenir.
+
+Ren : Je suis celui qui choisit, meme quand son choix n'a rien de
+spectaculaire.
+
+Aoi : Je suis celle qui peut ecrire sa propre page, meme si elle ne
+sait pas encore comment se termine le livre.
+
+La salle revient entierement a la normale. Le livre est toujours la,
+mais il n'a plus de texte. Sur sa couverture, les quatre eleves
+ecrivent un titre : A NOUS DE CHOISIR.
+
+	--------------------------------------------------
+	Friedrich Nietzsche — creer son identite
+
+	Se liberer ne signifie pas devenir quelqu'un qui n'a jamais ete
+	influence. Cela signifie transformer ses influences en matiere
+	de creation plutot qu'en prison.
+	--------------------------------------------------
+
+Derniere phrase :
+
+	Ils ne savaient pas si la liberte les attendait au bout de
+	l'histoire. Alors ils deciderent de commencer par ecrire une
+	phrase qui leur appartenait.
+
+
+----------------------------------------------------
+12. FIN CACHEE — « LE LIVRE QUI ECOUTE »
+----------------------------------------------------
+
+Une fin cachee peut etre debloquee si le joueur choisit regulierement
+l'ecoute, refuse les sacrifices, permet a chaque personnage de parler
+et ne cherche pas a obtenir une verite unique. Dans ce cas, le livre
+ne disparait pas et n'est pas detruit.
+
+Les quatre eleves le laissent ouvert sur la table, puis quittent la
+salle ensemble. La porte se ferme derriere eux. Une derniere page se
+remplit lentement, non pas avec une prophetie, mais avec une phrase
+adressee au joueur :
+
+	« Une histoire ne devient pas vraie parce qu'elle etait ecrite
+	d'avance. Elle devient vraie lorsque quelqu'un accepte d'en
+	repondre. »
+
+Le lendemain, les eleves reviennent dans la salle. Le livre est
+toujours la, mais il contient les dialogues qu'ils ont eus apres etre
+sortis. Il ne raconte plus leurs choix : il raconte leurs
+consequences.
+
+Aoi : Il ne nous demandait peut-etre pas de choisir la bonne fin.
+
+Mei : Alors que voulait-il ?
+
+Aoi : Que nous comprenions qu'une fin n'efface jamais ce qui l'a
+precedee.
+
+Kaito prend un stylo et ecrit sous la derniere ligne : « Nous
+continuerons a nous relire. »
+
+La page reste blanche. Cette fois, le livre ne cherche pas a les
+corriger.
+
+
+----------------------------------------------------
+13. CONSEILS DE MISE EN SCENE POUR LE VISUAL NOVEL
+----------------------------------------------------
+
+Les scenes ordinaires doivent utiliser des couleurs chaudes et un
+rythme leger afin de rendre les personnages attachants avant
+l'apparition du mystere. Lorsque le livre ecrit une phrase, les sons
+ambiants peuvent disparaitre pendant quelques secondes. Les pauses
+philosophiques doivent etre accompagnees d'un fond fixe, d'une
+musique tres discrete et d'un changement de lumiere plutot que d'une
+longue explication.
+
+Les choix doivent parfois etre presentes comme des actions banales :
+attendre, ecouter, interrompre, toucher la couverture, regarder un
+personnage ou rester silencieux. Le joueur doit comprendre
+progressivement que ne rien faire est aussi une decision. Les trois
+fins principales peuvent dependre d'un systeme invisible de
+confiance, de verite et de controle, sans afficher immediatement ces
+statistiques.
+
+Le texte doit toujours revenir aux emotions concretes des quatre
+eleves. La philosophie ne doit pas seulement etre citee : elle doit
+etre vecue par les personnages. Kaito doit apprendre a ne pas
+confondre responsabilite et controle. Mei doit comprendre que le
+souvenir n'est pas une condamnation. Ren doit decouvrir que
+l'independance ne consiste pas a refuser toute aide. Aoi doit
+accepter que connaitre les anciennes histoires ne l'empeche pas d'en
+ecrire une nouvelle.
+
+	Question finale laissee au joueur :
+	Si une histoire pouvait prevoir chacun de tes choix,
+	continuerais-tu a choisir ?
+
+
+----------------------------------------------------
+ANNEXE 1 — PHILOSOPHIE MOBILISEE DANS LE SCENARIO
+----------------------------------------------------
+
+Friedrich Nietzsche
+	Se liberer de ce qui nous a faconnes et creer son identite.
+
+Jean-Paul Sartre
+	Liberte, responsabilite et poids des choix ; impossibilite
+	d'echapper completement a ses decisions.
+
+Arthur Schopenhauer
+	Desirs influences par des forces que nous ne maitrisons pas
+	completement ; sommes-nous reellement libres ?
+
+Baruch Spinoza
+	Illusion du libre arbitre et causes ignorees ; nous sommes
+	determines par des causes que nous ignorons.
+
+Albert Camus
+	Continuer a vivre et agir malgre l'absence de sens garanti.
+
+Michel Foucault
+	Influence des institutions, des regles et de
+	l'autosurveillance ; les systemes faconnent les individus.
+
+Sigmund Freud
+	Role du passe, du traumatisme et de l'inconscient dans nos
+	actions.
+
+David Hume
+	Relation entre causalite, volonte et liberte pratique.
+
+Henri Bergson
+	Temps vecu, memoire et experience interieure de la duree.
+
+Martin Heidegger
+	Existence authentique, identite et rapport a la mort.
+
+Socrate (470-399 av. J.-C.)
+	Connaissance de soi par le dialogue et le questionnement.
+
+Platon (428/427-348/347 av. J.-C.)
+	Difference entre apparence, verite et monde ideal ; justice.
+
+Nicolas Machiavel (1469-1527)
+	Pouvoir, strategie et manipulation du groupe.
+
+Erasme (1466-1536)
+	Humanisme, education et dialogue plutot que violence.
+
+Rene Descartes (1596-1650)
+	Doute methodique et certitude de la pensee : « je pense, donc
+	je suis ».
+
+Voltaire (1694-1778)
+	Tolerance, critique du fanatisme, droit au desaccord.
+
+
+----------------------------------------------------
+ANNEXE 2 — VARIABLES DE JEU
+----------------------------------------------------
+
+CONFIANCE
+	Debloque les confessions et la fin « Nous ecrivons la suite ».
+
+CONTROLE
+	Augmente lorsque Kaito decide pour les autres ; influence la
+	fin du systeme (« Les lecteurs du systeme »).
+
+VERITE
+	Augmente lorsque le joueur choisit les archives, les aveux et
+	les contradictions.
+
+RESISTANCE
+	Augmente lorsque Ren refuse les consignes et les manipulations ;
+	favorise la fin « La page blanche ».
+
+ECOUTE
+	Augmente lorsque le joueur laisse chaque personnage parler avant
+	d'agir ; condition principale de la fin cachee « Le livre qui
+	ecoute ».
+
+Ces variables peuvent rester invisibles pendant la majeure partie du
+jeu. Les joueurs doivent surtout les ressentir a travers les
+reactions, les silences et les variations de dialogue, jamais a
+travers une jauge affichee a l'ecran.
+
+
+----------------------------------------------------
+FIN DU DOCUMENT
+----------------------------------------------------
+
+Version de travail fusionnee, redigee pour servir de base a un
+scenario complet, un script de dialogues ou une structure de jeu a
+embranchements pour visual novel.

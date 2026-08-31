@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Le Livre Sans Titre</title>
+  <link rel="stylesheet" href="style.css" />
+  <!-- Google Fonts: Noto Serif JP for japanese literary feel + Cormorant Garamond for elegance -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400;600&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Noto+Sans+JP:wght@300;400&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <!-- ═══════════════════════════════════════════
+       TITLE SCREEN
+  ═══════════════════════════════════════════ -->
+  <div id="title-screen" class="screen active">
+    <div class="title-bg">
+      <!-- Decorative ink bleed -->
+      <div class="ink-bleed"></div>
+    </div>
+
+    <div class="title-content">
+      <div class="title-jp">無題の本</div>
+      <h1 class="title-main">Le Livre de votre philosophie</h1>
+      <p class="title-sub">Un roman visuel philosophique</p>
+      <div class="title-divider"></div>
+
+      <div class="title-menu">
+        <button class="menu-btn" id="btn-start" onclick="game.startGame()">
+          <span class="btn-jp">はじめる</span>
+          <span class="btn-fr">Commencer</span>
+        </button>
+        <button class="menu-btn" id="btn-load" onclick="game.loadGame()">
+          <span class="btn-jp">つづきから</span>
+          <span class="btn-fr">Continuer</span>
+        </button>
+        <button class="menu-btn" onclick="game.showConfig()">
+          <span class="btn-jp">せってい</span>
+          <span class="btn-fr">Options</span>
+        </button>
+      </div>
+
+      <div class="title-footer">
+        <span>Club de Lecture</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════
+       GAME SCREEN
+  ═══════════════════════════════════════════ -->
+  <div id="game-screen" class="screen">
+
+    <!-- Background layer -->
+    <div id="bg-layer">
+      <img id="bg-image" src="" alt="" />
+      <div id="bg-overlay"></div>
+      <!-- CSS animated rain for scenes -->
+      <div id="rain-effect" class="rain-effect hidden"></div>
+    </div>
+
+    <!-- Character sprites layer -->
+    <div id="sprites-layer">
+      <img id="sprite-left"   class="sprite-img" src="" alt="" data-pos="left"   />
+      <img id="sprite-center" class="sprite-img" src="" alt="" data-pos="center" />
+      <img id="sprite-right"  class="sprite-img" src="" alt="" data-pos="right"  />
+    </div>
+
+    <!-- Cinematic letterbox bars -->
+    <div class="letterbox-top"></div>
+    <div class="letterbox-bottom"></div>
+
+    <!-- Top HUD -->
+    <div id="top-hud">
+      <button class="hud-btn" id="btn-menu" onclick="game.openMenu()" title="Menu">☰</button>
+      <div id="chapter-label"></div>
+      <button class="hud-btn" id="btn-auto" onclick="game.toggleAuto()" title="Auto">AUTO</button>
+      <button class="hud-btn" id="btn-skip" onclick="game.skip()" title="Passer">►►</button>
+      <button class="hud-btn" id="btn-log" onclick="game.showLog()" title="Journal">✦</button>
+    </div>
+
+    <!-- MAIN DIALOGUE BOX -->
+    <div id="dialogue-box" class="dialogue-box">
+      <div id="speaker-name-wrap">
+        <div id="speaker-tag"></div>
+        <div id="speaker-name"></div>
+      </div>
+      <div id="dialogue-text-wrap">
+        <div id="dialogue-text"></div>
+        <div id="text-cursor">▼</div>
+      </div>
+    </div>
+
+    <!-- CHOICES PANEL -->
+    <div id="choices-panel" class="hidden">
+      <div id="choices-label">— Choisissez votre réponse —</div>
+      <div id="choices-list"></div>
+    </div>
+
+    <!-- INNER MONOLOGUE overlay -->
+    <div id="monologue-overlay" class="hidden">
+      <div id="monologue-text"></div>
+    </div>
+
+    <!-- BOOK REVEAL overlay -->
+    <div id="book-overlay" class="hidden">
+      <div class="book-container">
+        <div class="book-inner">
+          <div id="book-text"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- SCENE TRANSITION overlay -->
+    <div id="transition-overlay"></div>
+
+    <!-- AFFINITY indicators (subtle) -->
+    <div id="affinity-bar">
+      <div class="aff-item" id="aff-mei" title="Mei">
+        <span class="aff-icon">眼</span>
+        <div class="aff-fill-wrap"><div class="aff-fill" style="width:0%"></div></div>
+      </div>
+      <div class="aff-item" id="aff-ren" title="Ren">
+        <span class="aff-icon">月</span>
+        <div class="aff-fill-wrap"><div class="aff-fill" style="width:0%"></div></div>
+      </div>
+      <div class="aff-item" id="aff-kaito" title="Kaito">
+        <span class="aff-icon">霧</span>
+        <div class="aff-fill-wrap"><div class="aff-fill" style="width:0%"></div></div>
+      </div>
+      <div class="aff-item" id="aff-aoi" title="Aoi">
+        <span class="aff-icon">夢</span>
+        <div class="aff-fill-wrap"><div class="aff-fill" style="width:0%"></div></div>
+      </div>
+    </div>
+
+  </div><!-- /game-screen -->
+
+  <!-- ═══════════════════════════════════════════
+       PAUSE MENU OVERLAY
+  ═══════════════════════════════════════════ -->
+  <div id="pause-menu" class="overlay hidden">
+    <div class="overlay-panel">
+      <h2 class="overlay-title">— Menu —</h2>
+      <button class="overlay-btn" onclick="game.closeMenu()">Reprendre</button>
+      <button class="overlay-btn" onclick="game.saveGame()">Sauvegarder</button>
+      <button class="overlay-btn" onclick="game.loadGame()">Charger</button>
+      <button class="overlay-btn" onclick="game.backToTitle()">Titre</button>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════
+       LOG OVERLAY
+  ═══════════════════════════════════════════ -->
+  <div id="log-panel" class="overlay hidden">
+    <div class="overlay-panel wide">
+      <h2 class="overlay-title">— Journal des Dialogues —</h2>
+      <div id="log-list"></div>
+      <button class="overlay-btn" onclick="game.hideLog()">Fermer</button>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════
+       CONFIG OVERLAY
+  ═══════════════════════════════════════════ -->
+  <div id="config-panel" class="overlay hidden">
+    <div class="overlay-panel">
+      <h2 class="overlay-title">— Options —</h2>
+      <label>Vitesse du texte
+        <input type="range" id="text-speed" min="10" max="80" value="35" oninput="game.setTextSpeed(this.value)" />
+      </label>
+      <label>Volume musique
+        <input type="range" id="music-vol" min="0" max="100" value="60" oninput="game.setMusicVol(this.value)" />
+      </label>
+      <button class="overlay-btn" onclick="game.hideConfig()">Fermer</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
