@@ -11,7 +11,8 @@ Projet de visual novel.
 ## Auteur
 
 - Jimmy Rondin
-- matteo edy
+- Matteo Edy
+- Mathys Deves
 
 ## Statut
 
