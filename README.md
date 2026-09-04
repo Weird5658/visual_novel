@@ -12,7 +12,7 @@ Projet de visual novel.
 
 - Jimmy Rondin
 - Matteo Edy
-- Mathys Deves
+- 
 
 ## Statut
 
